@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "diffpriv",
+    "oncran": true
+  }
+]
